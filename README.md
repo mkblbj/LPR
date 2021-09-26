@@ -1,6 +1,5 @@
 # lpr（license plate recognition）
-## 算法流程
-![算法流程](image/flow.jpg)
+
 ## 构建及安装
 
 1. 源码准备
